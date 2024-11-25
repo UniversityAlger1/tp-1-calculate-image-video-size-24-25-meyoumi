@@ -27,7 +27,7 @@ float video(int w, int h, int durationMovie, int durationCredits, int fps, char*
         return (((totalSize /8) /1024)/ 1024)/1024; // Convertir en gigaoctes
     }else 
     return totalSize;
-   // YOUR CODE HERE - END
+   // YOUR CODE HERE - END ,,,, 
 //    your code
    return 0;
 }

@@ -23,6 +23,6 @@ float coloredBitmap(int w, int h, char* unit) {
     }else 
     return colorsize;
   // YOUR CODE HERE - END
-   // your code 
+   // your code hhh
    return 0;
 }
