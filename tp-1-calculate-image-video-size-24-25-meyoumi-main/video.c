@@ -28,5 +28,6 @@ float video(int w, int h, int durationMovie, int durationCredits, int fps, char*
     }else 
     return totalSize;
    // YOUR CODE HERE - END
+//    your code
    return 0;
 }

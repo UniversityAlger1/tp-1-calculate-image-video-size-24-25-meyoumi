@@ -22,6 +22,7 @@ float coloredBitmap(int w, int h, char* unit) {
         return ((colorsize /1024) / 1024) / 1024; // Taille en gigabits
     }else 
     return colorsize;
-   // YOUR CODE HERE - END
+  // YOUR CODE HERE - END
+   // your code 
    return 0;
 }

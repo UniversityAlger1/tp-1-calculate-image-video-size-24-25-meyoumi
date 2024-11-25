@@ -7,6 +7,7 @@
 float grayScaleImage(int w, int h) {
     // YOUR CODE HERE - BEGIN
    // Calculer la taille totale de l'image en octets
+   //calcule
    float size = w *h;
    return size;
 }
